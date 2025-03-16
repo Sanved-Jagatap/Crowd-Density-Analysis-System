@@ -1,2 +1,4 @@
 # Crowd-Density-Analysis-System
 A deep learning-based system for real-time crowd density analysis and risk detection. Using a multi-column CNN model, it estimates crowd density from images and assists in allocating security and medical resources. Built with PyTorch and Streamlit, it helps prevent overcrowding, manage events, and enhance public safety efficiently.
+This project was inspired by real-world incidents of concert conflicts, stampedes, and overcrowded public gatherings, where lack of crowd management led to serious accidents.This system aims to assist authorities in early intervention and efficient resource deployment, reducing the likelihood of such tragedies.
+Note: Better image quality and proper camera angles lead to more accurate analysis. High-resolution images taken from an elevated viewpoint (e.g., surveillance cameras, drones) improve crowd density estimation and hotspot detection.
